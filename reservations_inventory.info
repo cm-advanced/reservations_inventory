@@ -13,4 +13,4 @@ package = "Community Media Advanced"
 version = "7.x-2.x"
 core = "7.x"
 project = "reservations_inventory"
-project_status_url = https://github.com/cm-advanced/cm_project
+project_status_url = https://github.com/cm-advanced/reservations_inventory

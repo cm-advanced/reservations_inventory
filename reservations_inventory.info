@@ -1,0 +1,16 @@
+name = CMA Reservations Inventory
+
+description = "Adds an Inventory Taxonomy to Content Type and Nodes in that type.  Can limit Reservable Items to specific items in UI."
+
+dependencies[] = reservations
+
+files[] = reservations_inventory.module
+files[] = includes/reservations.admin.inc
+
+configure = admin/config/reservations/inventory
+
+package = "Community Media Advanced"
+version = "7.x-2.x"
+core = "7.x"
+project = "reservations_inventory"
+project_status_url = https://github.com/cm-advanced/cm_project
